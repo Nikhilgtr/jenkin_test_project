@@ -4,7 +4,7 @@
 #include <c.h>
 int main() 
 {
-	printf("This is Main\n");
+	printf("This is Main func\n");
 	a_func();
 	b_func();
 	c_func();
